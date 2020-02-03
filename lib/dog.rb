@@ -13,8 +13,8 @@ class Dog
 end
 
 fido = Dog.new
-fido.bark = woof!
+fido.bark = "woof!"
 
-puts lassie.name
+puts fido.bark
 
 end# Your code goes here!
