@@ -9,6 +9,7 @@ class Dog
   def bark
     @this_dog_bark
   end
+
   def name=(dogs_name)
     @this_dog_name = dogs_name
   end
@@ -16,7 +17,7 @@ class Dog
   def name
     @this_dog_name
   end
-
+end 
 
   # def bark=(dogs_bark)
   #   @this_dog_bark = dogs_bark
@@ -25,7 +26,7 @@ class Dog
   # def bark
   #   @this_dog_bark
   # end
-end
+
 
 
 fido = Dog.new
