@@ -29,12 +29,4 @@ end
 
 
 
-fido = Dog.new
-fido.name = "Fido"
-
-fido = Dog.new
-fido.bark = "woof!"
-
-puts fido.bark
-
  # Your code goes here!
