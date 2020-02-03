@@ -8,7 +8,7 @@ class Dog
   def name
     @this_dog_name
   end
-  end
+  
 
   def bark=(dogs_bark)
     @this_dog_name = dogs_bark
