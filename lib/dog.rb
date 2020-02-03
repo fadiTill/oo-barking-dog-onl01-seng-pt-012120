@@ -17,7 +17,7 @@ class Dog
   def name
     @this_dog_name
   end
-end 
+end
 
   # def bark=(dogs_bark)
   #   @this_dog_bark = dogs_bark
